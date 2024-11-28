@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="BankingSystemProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BankingSystemProject_jar</output-path>
+    <root id="root">
+      <element id="archive" name="BankingSystemProject.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/JavaFX/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="UI" />
+        <element id="module-output" name="engine" />
+        <element id="module-output" name="JavaFX" />
+      </element>
+      <element id="library" level="project" name="controlsfx-8.40.14" />
+    </root>
+  </artifact>
+</component>
